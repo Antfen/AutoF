@@ -1,5 +1,4 @@
 
-<h1>TESTER</h1>
 <?php
 /**
  * The template for displaying all pages.
